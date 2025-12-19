@@ -35,6 +35,11 @@
     "@wagmi/connectors": "^1.0.0",
     "@walletconnect/ethereum-provider": "^1.7.8",
     "@walletconnect/sign-client": "^1.8.0",
+    "use-sync-external-store": "^1.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "overrides": {
     "use-sync-external-store": "^1.2.0"
   }
 }
